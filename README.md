@@ -51,5 +51,3 @@ In addition to the above question, the Data Science team is working on pricing o
 You should provide at least one endpoint /predict. The full URL would look like something like this: https://your-url.com/predict.
 
 This endpoint accepts POST method with JSON input data and it should return the predictions. 
-
-Vidyard link : https://share.vidyard.com/watch/TjwpdDHPUbmk8NePUCuPPw?
